@@ -12,9 +12,9 @@ Feature: Validating place API's
     Examples:
       | name    | language | Address |
       | Dheeraj | English  | Gohana  |
-#     | Ravi    | Hindi    | Delhi   |
-#     | Rajiv   | Hindi    | Haryana |
-#     | Rahul   | Hindi    | Mumbai  |
+      | Ravi    | Hindi    | Delhi   |
+      | Rajiv   | Hindi    | Haryana |
+      | Rahul   | Hindi    | Mumbai  |
 
   @DeletePlaceAPI
   Scenario: Verify if Delete Place API is working properly
